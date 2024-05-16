@@ -1,0 +1,1 @@
+This repository contains a collection of my Jupyter Notebooks covering various projects and topics in machine learning, data analysis, and more. The notebooks will be continuously updated as I work on new projects.
